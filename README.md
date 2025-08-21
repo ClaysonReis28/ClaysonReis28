@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Clayson Lucri
+# 👨🏻‍💻 Clayson Lucri
 
 **`Desenvolvedor Back-End`**
 
